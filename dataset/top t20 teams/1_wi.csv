@@ -1,0 +1,13 @@
+Player,Roles,Bowling_Type,Bat_Innings,Bat_Avg,Bat_SR,Bowl_Innings,Wickets,Economy,Team,Bowl_SR
+Chris Gayle,Opener,Off spin,75,27.93,137.51,NA,NA,NA,WI,NA
+Dwayne Smith,Opener,Medium pace,26,21.42,148.20,12,6,7.80,WI,36.0
+Marlon Samuels,Middle-order,Off spin,43,29.95,123.98,15,8,7.47,WI,34.5
+Darren Bravo,Middle-order,NA,33,22.82,115.82,NA,NA,NA,WI,NA
+Kieron Pollard,"Finisher,All-rounder",Medium pace,83,25.31,135.15,55,42,8.33,WI,26.5
+Andre Russell,"Finisher,All-rounder",Fast,75,22.00,163.80,67,61,9.43,WI,18.0
+Dwayne Bravo,"Finisher,All-rounder",Medium pace,74,22.02,115.14,66,78,8.12,WI,21.0
+Sunil Narine,All-rounder,Off spin,51,12.47,70.98,51,52,6.02,WI,23.5
+Samuel Badree,Bowler,Leg spin,NA,NA,NA,52,54,6.75,WI,20.0
+Jerome Taylor,Bowler,Fast,NA,NA,NA,28,26,8.10,WI,22.8
+Kemar Roach,Bowler,Fast,NA,NA,NA,13,13,7.67,WI,24.0
+

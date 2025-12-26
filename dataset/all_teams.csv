@@ -1,0 +1,111 @@
+Player,Roles,Bowling_Type,Bat_Innings,Bat_Avg,Bat_SR,Bowl_Innings,Wickets,Economy,Team,Bowl_SR
+Litton Das,Opener,,71.0,22.3,124.5,,,,Bangladesh,
+Mohammad Naim,Opener,,29.0,22.4,121.1,,,,Bangladesh,
+Shakib Al Hasan,All-rounder,Off spin,94.0,23.8,128.6,94.0,140.0,6.8,Bangladesh,21.5
+Mushfiqur Rahim,Middle-order,,84.0,21.4,116.2,,,,Bangladesh,
+Mahmudullah,"Middle-order,All-rounder",Off spin,76.0,23.2,122.8,,,,Bangladesh,
+Afif Hossain,"Finisher,All-rounder",Off spin,48.0,19.1,126.4,22.0,22.0,7.6,Bangladesh,30.0
+Mahedi Hasan,All-rounder,Off spin,27.0,15.2,115.3,27.0,28.0,7.1,Bangladesh,25.5
+Mehidy Hasan Miraz,All-rounder,Off spin,24.0,15.9,114.2,24.0,24.0,6.9,Bangladesh,24.0
+Mustafizur Rahman,Bowler,Fast,,,,87.0,106.0,7.7,Bangladesh,20.0
+Taskin Ahmed,Bowler,Fast,,,,48.0,60.0,8.0,Bangladesh,21.5
+Shoriful Islam,Bowler,Fast,,,,28.0,30.0,7.9,Bangladesh,23.5
+Chris Gayle,Opener,Off spin,75.0,27.93,137.51,,,,WI,
+Dwayne Smith,Opener,Medium pace,26.0,21.42,148.2,12.0,6.0,7.8,WI,36.0
+Marlon Samuels,Middle-order,Off spin,43.0,29.95,123.98,15.0,8.0,7.47,WI,34.5
+Darren Bravo,Middle-order,,33.0,22.82,115.82,,,,WI,
+Kieron Pollard,"Finisher,All-rounder",Medium pace,83.0,25.31,135.15,55.0,42.0,8.33,WI,26.5
+Andre Russell,"Finisher,All-rounder",Fast,75.0,22.0,163.8,67.0,61.0,9.43,WI,18.0
+Dwayne Bravo,"Finisher,All-rounder",Medium pace,74.0,22.02,115.14,66.0,78.0,8.12,WI,21.0
+Sunil Narine,All-rounder,Off spin,51.0,12.47,70.98,51.0,52.0,6.02,WI,23.5
+Samuel Badree,Bowler,Leg spin,,,,52.0,54.0,6.75,WI,20.0
+Jerome Taylor,Bowler,Fast,,,,28.0,26.0,8.1,WI,22.8
+Kemar Roach,Bowler,Fast,,,,13.0,13.0,7.67,WI,24.0
+Jos Buttler,Opener,,119.0,34.8,144.3,,,,England,
+Alex Hales,Opener,,75.0,30.31,136.55,,,,England,
+Dawid Malan,Middle-order,,62.0,36.66,132.9,,,,England,
+Ben Stokes,"Middle-order,All-rounder",Medium pace,84.0,22.4,134.1,49.0,26.0,8.36,England,31.0
+Liam Livingstone,"Finisher,All-rounder",Leg spin,42.0,29.13,148.3,26.0,13.0,8.03,England,28.0
+Moeen Ali,"Middle-order,All-rounder",Off spin,74.0,21.12,141.9,63.0,41.0,7.2,England,24.0
+Sam Curran,"Finisher,All-rounder",Fast,44.0,18.7,136.4,47.0,46.0,8.15,England,20.5
+Chris Woakes,All-rounder,Fast,40.0,12.66,118.3,46.0,31.0,7.86,England,27.5
+Adil Rashid,Bowler,Leg spin,,,,123.0,123.0,7.43,England,19.0
+Mark Wood,Bowler,Fast,,,,47.0,47.0,8.52,England,19.5
+Reece Topley,Bowler,Fast,,,,45.0,45.0,8.31,England,21.0
+Babar Azam,Opener,,109.0,41.1,128.5,,,,Pakistan,
+Mohammad Rizwan,Opener,,85.0,48.5,127.8,,,,Pakistan,
+Fakhar Zaman,Middle-order,,76.0,22.9,132.4,,,,Pakistan,
+Mohammad Hafeez,"Middle-order,All-rounder",Off spin,108.0,26.0,123.1,82.0,60.0,7.1,Pakistan,27.0
+Shoaib Malik,"Middle-order,All-rounder",Off spin,118.0,23.9,123.8,47.0,28.0,7.9,Pakistan,32.0
+Asif Ali,Finisher,,67.0,18.4,141.7,,,,Pakistan,
+Shadab Khan,All-rounder,Leg spin,92.0,15.3,142.1,89.0,98.0,7.2,Pakistan,19.5
+Imad Wasim,All-rounder,Off spin,63.0,14.8,128.0,63.0,65.0,6.2,Pakistan,23.0
+Shaheen Afridi,Bowler,Fast,,,,58.0,70.0,7.8,Pakistan,18.5
+Haris Rauf,Bowler,Fast,,,,72.0,83.0,8.2,Pakistan,17.0
+Hasan Ali,Bowler,Fast,,,,51.0,60.0,8.5,Pakistan,20.0
+Rohit Sharma,Opener,Off spin,151.0,31.4,139.2,,,,India,
+KL Rahul,Opener,,72.0,37.8,139.1,,,,India,
+Virat Kohli,Middle-order,,115.0,52.0,137.9,,,,India,
+Suryakumar Yadav,Middle-order,,56.0,46.1,171.5,,,,India,
+MS Dhoni,Finisher,,85.0,37.6,126.1,,,,India,
+Hardik Pandya,"Finisher,All-rounder",Fast,81.0,25.4,145.8,70.0,70.0,8.2,India,20.0
+Ravindra Jadeja,All-rounder,Off spin,64.0,21.4,127.6,53.0,53.0,7.1,India,22.5
+Bhuvneshwar Kumar,Bowler,Fast,,,,87.0,90.0,6.9,India,21.0
+Jasprit Bumrah,Bowler,Fast,,,,60.0,74.0,6.5,India,19.5
+Yuzvendra Chahal,Bowler,Leg spin,,,,80.0,96.0,8.1,India,18.0
+Mohammed Shami,Bowler,Fast,,,,30.0,36.0,8.3,India,20.0
+David Warner,Opener,,103.0,33.4,142.6,,,,Australia,
+Aaron Finch,Opener,,103.0,34.3,142.5,,,,Australia,
+Mitchell Marsh,"Middle-order,All-rounder",Medium pace,54.0,28.1,135.8,29.0,17.0,8.4,Australia,30.5
+Glenn Maxwell,"Finisher,All-rounder",Off spin,93.0,28.4,154.1,56.0,38.0,8.3,Australia,25.0
+Marcus Stoinis,"Finisher,All-rounder",Medium pace,52.0,26.3,147.1,33.0,19.0,8.6,Australia,29.5
+Matthew Wade,Finisher,,49.0,26.0,134.9,,,,Australia,
+Pat Cummins,Bowler,Fast,,,,50.0,55.0,7.9,Australia,22.0
+Mitchell Starc,Bowler,Fast,,,,63.0,79.0,8.4,Australia,19.0
+Josh Hazlewood,Bowler,Fast,,,,60.0,64.0,7.7,Australia,23.5
+Adam Zampa,Bowler,Leg spin,,,,86.0,94.0,7.6,Australia,21.0
+Kane Richardson,Bowler,Fast,,,,42.0,42.0,8.1,Australia,24.0
+Martin Guptill,Opener,,118.0,31.8,135.7,,,,New Zealand,
+Finn Allen,Opener,,31.0,27.4,158.6,,,,New Zealand,
+Kane Williamson,Middle-order,Off spin,87.0,32.1,123.1,12.0,6.0,7.8,New Zealand,34.0
+Glenn Phillips,Middle-order,Off spin,52.0,30.1,147.2,18.0,7.0,8.4,New Zealand,36.5
+Jimmy Neesham,"Finisher,All-rounder",Medium pace,66.0,24.1,142.3,55.0,49.0,8.4,New Zealand,26.0
+Mitchell Santner,All-rounder,Off spin,74.0,16.5,114.6,74.0,84.0,6.8,New Zealand,22.0
+Michael Bracewell,All-rounder,Off spin,18.0,22.8,150.4,15.0,13.0,7.6,New Zealand,25.5
+Tim Southee,Bowler,Fast,,,,126.0,157.0,8.0,New Zealand,19.5
+Trent Boult,Bowler,Fast,,,,55.0,74.0,7.9,New Zealand,20.0
+Ish Sodhi,Bowler,Leg spin,,,,94.0,114.0,7.4,New Zealand,21.5
+Lockie Ferguson,Bowler,Fast,,,,63.0,85.0,7.8,New Zealand,18.0
+Quinton de Kock,Opener,,80.0,32.3,138.5,,,,South Africa,
+Reeza Hendricks,Opener,,55.0,26.1,130.4,,,,South Africa,
+Aiden Markram,"Middle-order,All-rounder",Off spin,41.0,25.8,146.3,21.0,8.0,8.1,South Africa,35.0
+Rassie van der Dussen,Middle-order,,44.0,31.0,133.4,,,,South Africa,
+David Miller,Finisher,,95.0,25.1,140.8,,,,South Africa,
+Heinrich Klaasen,Finisher,,47.0,25.9,141.6,,,,South Africa,
+Marco Jansen,All-rounder,Fast,19.0,16.4,133.1,19.0,20.0,8.2,South Africa,24.5
+Kagiso Rabada,Bowler,Fast,,,,56.0,58.0,8.2,South Africa,22.0
+Anrich Nortje,Bowler,Fast,,,,35.0,45.0,7.4,South Africa,18.5
+Tabraiz Shamsi,Bowler,Leg spin,,,,65.0,89.0,6.9,South Africa,20.0
+Lungi Ngidi,Bowler,Fast,,,,54.0,63.0,8.3,South Africa,21.5
+Tillakaratne Dilshan,"Opener,All-rounder",Off spin,79.0,28.9,120.9,,,,Sri Lanka,
+Kusal Perera,Opener,,60.0,26.1,136.2,,,,Sri Lanka,
+Kumar Sangakkara,Middle-order,,48.0,31.8,123.4,,,,Sri Lanka,
+Mahela Jayawardene,Middle-order,,55.0,31.4,134.3,,,,Sri Lanka,
+Thisara Perera,"Finisher,All-rounder",Fast,78.0,20.3,141.1,73.0,97.0,8.1,Sri Lanka,19.0
+Angelo Mathews,"Middle-order,All-rounder",Medium pace,59.0,25.3,124.6,49.0,41.0,8.0,Sri Lanka,28.0
+Seekkuge Prasanna,"Finisher,All-rounder",Off spin,29.0,17.8,143.6,27.0,30.0,8.4,Sri Lanka,26.5
+Lasith Malinga,Bowler,Fast,,,,84.0,107.0,7.4,Sri Lanka,18.5
+Nuwan Kulasekara,Bowler,Fast,,,,58.0,66.0,7.3,Sri Lanka,23.0
+Ajantha Mendis,Bowler,Off spin,,,,34.0,39.0,6.9,Sri Lanka,21.0
+Rangana Herath,Bowler,Off spin,,,,17.0,18.0,6.8,Sri Lanka,24.0
+Rahmanullah Gurbaz,Opener,,53.0,25.6,137.1,,,,Afghanistan,
+Hazratullah Zazai,Opener,,42.0,22.2,144.5,,,,Afghanistan,
+Ibrahim Zadran,Middle-order,,34.0,31.4,124.3,,,,Afghanistan,
+Najibullah Zadran,Middle-order,,73.0,25.0,138.7,,,,Afghanistan,
+Mohammad Nabi,All-rounder,Off spin,95.0,21.3,132.6,95.0,89.0,6.8,Afghanistan,24.0
+Karim Janat,"Finisher,All-rounder",Medium pace,44.0,18.1,123.4,34.0,34.0,7.6,Afghanistan,30.0
+Rashid Khan,All-rounder,Leg spin,80.0,18.1,133.4,80.0,130.0,6.2,Afghanistan,18.0
+Mujeeb Ur Rahman,Bowler,Off spin,,,,49.0,66.0,6.3,Afghanistan,22.0
+Naveen-ul-Haq,Bowler,Fast,,,,42.0,54.0,7.9,Afghanistan,20.5
+Fazalhaq Farooqi,Bowler,Fast,,,,32.0,36.0,7.8,Afghanistan,21.0
+Gulbadin Naib,"Middle-order,All-rounder",Medium pace,63.0,19.4,117.9,47.0,32.0,7.7,Afghanistan,28.5

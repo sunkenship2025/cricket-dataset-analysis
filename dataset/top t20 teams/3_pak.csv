@@ -1,0 +1,13 @@
+Player,Roles,Bowling_Type,Bat_Innings,Bat_Avg,Bat_SR,Bowl_Innings,Wickets,Economy,Team,Bowl_SR
+Babar Azam,Opener,NA,109,41.10,128.50,NA,NA,NA,Pakistan,NA
+Mohammad Rizwan,Opener,NA,85,48.50,127.80,NA,NA,NA,Pakistan,NA
+Fakhar Zaman,Middle-order,NA,76,22.90,132.40,NA,NA,NA,Pakistan,NA
+Mohammad Hafeez,"Middle-order,All-rounder",Off spin,108,26.00,123.10,82,60,7.10,Pakistan,27.0
+Shoaib Malik,"Middle-order,All-rounder",Off spin,118,23.90,123.80,47,28,7.90,Pakistan,32.0
+Asif Ali,Finisher,NA,67,18.40,141.70,NA,NA,NA,Pakistan,NA
+Shadab Khan,All-rounder,Leg spin,92,15.30,142.10,89,98,7.20,Pakistan,19.5
+Imad Wasim,All-rounder,Off spin,63,14.80,128.00,63,65,6.20,Pakistan,23.0
+Shaheen Afridi,Bowler,Fast,NA,NA,NA,58,70,7.80,Pakistan,18.5
+Haris Rauf,Bowler,Fast,NA,NA,NA,72,83,8.20,Pakistan,17.0
+Hasan Ali,Bowler,Fast,NA,NA,NA,51,60,8.50,Pakistan,20.0
+

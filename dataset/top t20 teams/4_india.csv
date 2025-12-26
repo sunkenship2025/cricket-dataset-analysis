@@ -1,0 +1,13 @@
+Player,Roles,Bowling_Type,Bat_Innings,Bat_Avg,Bat_SR,Bowl_Innings,Wickets,Economy,Team,Bowl_SR
+Rohit Sharma,Opener,Off spin,151,31.40,139.20,NA,NA,NA,India,NA
+KL Rahul,Opener,NA,72,37.80,139.10,NA,NA,NA,India,NA
+Virat Kohli,Middle-order,NA,115,52.00,137.90,NA,NA,NA,India,NA
+Suryakumar Yadav,Middle-order,NA,56,46.10,171.50,NA,NA,NA,India,NA
+MS Dhoni,Finisher,NA,85,37.60,126.10,NA,NA,NA,India,NA
+Hardik Pandya,"Finisher,All-rounder",Fast,81,25.40,145.80,70,70,8.20,India,20.0
+Ravindra Jadeja,All-rounder,Off spin,64,21.40,127.60,53,53,7.10,India,22.5
+Bhuvneshwar Kumar,Bowler,Fast,NA,NA,NA,87,90,6.90,India,21.0
+Jasprit Bumrah,Bowler,Fast,NA,NA,NA,60,74,6.50,India,19.5
+Yuzvendra Chahal,Bowler,Leg spin,NA,NA,NA,80,96,8.10,India,18.0
+Mohammed Shami,Bowler,Fast,NA,NA,NA,30,36,8.30,India,20.0
+
